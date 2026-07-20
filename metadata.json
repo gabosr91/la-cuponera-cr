@@ -1,0 +1,6 @@
+{
+  "name": "La Cuponera CR",
+  "description": "Una aplicación interactiva y persuasiva para comprar espacios publicitarios y conseguir cupones exclusivos de negocios locales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
